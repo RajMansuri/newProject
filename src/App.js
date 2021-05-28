@@ -9,7 +9,7 @@ export default function App() {
             <HooksCakeContainer />
             <IceCreamContainer />
             <NewCakeContainer />
-            <h1>push this code</h1>
+            {/* <h1>push this code</h1> */}
 
         </Provider>
     </>
